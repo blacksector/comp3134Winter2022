@@ -1,0 +1,30 @@
+IPv4 address for yahoo.com
+Domain Name Server IP: 74.6.143.26
+Domain Name Server IP: 74.6.231.20
+Domain Name Server IP: 74.6.231.21
+Domain Name Server IP: 98.137.11.163
+Domain Name Server IP: 98.137.11.164
+Domain Name Server IP: 74.6.143.25
+
+---------------------------------------------------------------
+
+IPv4 address for instagram.com
+Domain Name Server IP: 31.13.67.174
+
+---------------------------------------------------------------
+
+IPv4 address for amazon.com
+Domain Name Server IP: 205.251.242.103
+Domain Name Server IP: 54.239.28.85
+Domain Name Server IP: 176.32.103.205
+
+---------------------------------------------------------------
+
+IPv4 address for github.com
+Domain Name Server IP: 140.82.113.4
+
+
+---------------------------------------------------------------
+
+IPv4 address for georgebrown.ca
+Domain Name Server IP: 99.79.139.11
