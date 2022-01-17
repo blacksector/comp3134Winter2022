@@ -1,0 +1,343 @@
+% NOTE: The registry for this domain name does not publish ownership
+%       records (whois records) in the standard format.  This data
+%       represents the most likely status of the domain based on
+%       information provided by the Internet's domain name servers (DNS).
+
+domain: omar.to
+status: taken
+nameserver: dns1.p04.nsone.net
+nameserver: dns2.p04.nsone.net
+nameserver: dns3.p04.nsone.net
+
+% For more information, please visit http://www.tonic.to/
+
+IP Address:	54.241.246.27
+IP Location:	United States - California - San Jose - Amazon Technologies Inc.
+
+---------------------------------------------------------------
+
+Domain Name: quazi.co
+IP Address:	192.64.119.23 - 741 other sites hosted on this server  
+IP Location:	United States - California - Los Angeles - Namecheap Inc.
+Registry Domain ID: DDD772F6C4E90454580A487E424CED15C-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2021-11-21T12:49:28Z
+Creation Date: 2017-11-26T19:17:25Z
+Registry Expiry Date: 2022-11-26T19:17:25Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Capital Region
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: IS
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this 
+output for information on how to contact the Registrant, Admin, or Tech contact of the queried 
+domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this 
+output for information on how to contact the Registrant, Admin, or Tech contact of the queried 
+domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output 
+for information on how to contact the Registrant, Admin, or Tech contact of the queried domain 
+name.
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS 
+output may be available to individuals and organisations with a legitimate interest in 
+accessing this data not outweighed by the fundamental privacy rights of the data subject. To 
+find out more, or to make a request for access, please visit: RDDSrequest.nic.co.
+
+---------------------------------------------------------------
+
+Domain Name: getbasket.co
+IP Address:	138.197.207.178 - 8,239 other sites hosted on this server
+IP Location: United States - California - Palo Alto - Digitalocean Llc
+Registry Domain ID: D3C7E22E27A7940199BF82D70E700BD0A-NSR
+Registrar WHOIS Server:
+Registrar URL: www.porkbun.com
+Updated Date: 2021-12-11T05:40:37Z
+Creation Date: 2020-11-29T08:07:36Z
+Registry Expiry Date: 2022-11-29T08:07:36Z
+Registrar: Porkbun
+Registrar IANA ID: 1861
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.5038508351
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Private by Design, LLC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: NC
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this 
+output for information on how to contact the Registrant, Admin, or Tech contact of the queried 
+domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this 
+output for information on how to contact the Registrant, Admin, or Tech contact of the queried 
+domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output 
+for information on how to contact the Registrant, Admin, or Tech contact of the queried domain 
+name.
+Name Server: dns1.p04.nsone.net
+Name Server: dns2.p04.nsone.net
+Name Server: dns3.p04.nsone.net
+Name Server: dns4.p04.nsone.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS 
+output may be available to individuals and organisations with a legitimate interest in 
+accessing this data not outweighed by the fundamental privacy rights of the data subject. To 
+find out more, or to make a request for access, please visit: RDDSrequest.nic.co.
+
+---------------------------------------------------------------
+
+Domain Name: facebook.com
+IP Address: 157.240.3.35 - 257 other sites hosted on this server 
+IP Location: United States - Washington - Seattle - Facebook Inc.
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+        http://www.registrarsafe.com
+Updated Date: 2021-10-18T18:07:40+00:00
+        2021-10-18
+Creation Date: 1997-03-29T05:00:00+00:00
+        1997-03-29
+Registrar Registration Expiration Date: 2031-03-30T04:00:00+00:00
+        2031-03-30
+Registrar: RegistrarSafe, LLC
+Sponsoring Registrar IANA ID: 3237
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 16503087004
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Facebook, Inc.
+Registrant Street: 1601 Willow Rd
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: us
+Registrant Phone: 16505434800
+Registrant Phone Ext: 
+Registrant Fax: 16505434800
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Facebook, Inc.
+Admin Street: 1601 Willow Rd
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: us
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY (DT)
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Rd
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: us
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY (DT)
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        a.ns.facebook.com
+        b.ns.facebook.com
+        c.ns.facebook.com
+        d.ns.facebook.com
+DNSSEC: unsigned
+
+---------------------------------------------------------------
+
+Domain Name: google.com
+IP Address: 142.250.69.196 - 80 other sites hosted on this server
+IP Location: United States - Washington - Seattle - Google
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04+00:00
+Creation Date: 1997-09-15T07:00:00+00:00
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+00:00
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 12083895770
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Google LLC
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: us
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: Google LLC
+Admin Street: 
+Admin City: 
+Admin State/Province: CA
+Admin Postal Code: 
+Admin Country: us
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: Google LLC
+Tech Street: 
+Tech City: 
+Tech State/Province: CA
+Tech Postal Code: 
+Tech Country: us
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        ns1.google.com
+        ns2.google.com
+        ns3.google.com
+        ns4.google.com
+DNSSEC: unsigned
