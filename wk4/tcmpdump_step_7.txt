@@ -1,0 +1,41 @@
+root@comp3134:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+20:29:41.329350 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 3803720129:3803720165, ack 3713437064, win 501, options [nop,nop,TS val 1835817274 ecr 487996861], length 36
+20:29:41.329837 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 36:80, ack 1, win 501, options [nop,nop,TS val 1835817275 ecr 487996861], length 44
+20:29:41.329880 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 80:196, ack 1, win 501, options [nop,nop,TS val 1835817275 ecr 487996861], length 116
+20:29:41.329912 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 196:232, ack 1, win 501, options [nop,nop,TS val 1835817275 ecr 487996861], length 36
+20:29:41.343795 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 36, win 15147, options [nop,nop,TS val 487996878 ecr 1835817274], length 0
+20:29:41.343795 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 232, win 15144, options [nop,nop,TS val 487996878 ecr 1835817275], length 0
+20:29:43.898250 IP 172.70.182.74.53863 > 155.138.140.26.vultr.com.https: Flags [S], seq 1981216040, win 65535, options [mss 1460,nop,nop,sackOK,nop,wscale 10], length 0
+20:29:43.898284 IP 155.138.140.26.vultr.com.https > 172.70.182.74.53863: Flags [S.], seq 2282385378, ack 1981216041, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+20:29:44.009496 IP 172.70.182.74.53863 > 155.138.140.26.vultr.com.https: Flags [.], ack 1, win 64, length 0
+20:29:44.009517 IP 172.70.182.74.53863 > 155.138.140.26.vultr.com.https: Flags [F.], seq 1, ack 1, win 64, length 0
+20:29:44.009716 IP 155.138.140.26.vultr.com.https > 172.70.182.74.53863: Flags [F.], seq 1, ack 2, win 502, length 0
+20:29:44.015124 IP 172.70.182.74.61613 > 155.138.140.26.vultr.com.https: Flags [S], seq 2512849028, win 65535, options [mss 1460,nop,nop,sackOK,nop,wscale 10], length 0
+20:29:44.015150 IP 155.138.140.26.vultr.com.https > 172.70.182.74.61613: Flags [S.], seq 2147062741, ack 2512849029, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+20:29:44.120851 IP 172.70.182.74.53863 > 155.138.140.26.vultr.com.https: Flags [.], ack 2, win 64, length 0
+20:29:44.126209 IP 172.70.182.74.61613 > 155.138.140.26.vultr.com.https: Flags [.], ack 1, win 64, length 0
+20:29:44.126209 IP 172.70.182.74.61613 > 155.138.140.26.vultr.com.https: Flags [F.], seq 1, ack 1, win 64, length 0
+20:29:44.126466 IP 155.138.140.26.vultr.com.https > 172.70.182.74.61613: Flags [F.], seq 1, ack 2, win 502, length 0
+20:29:44.133606 IP 172.70.182.74.20771 > 155.138.140.26.vultr.com.https: Flags [S], seq 2925672246, win 65535, options [mss 1460,nop,nop,sackOK,nop,wscale 10], length 0
+20:29:44.133643 IP 155.138.140.26.vultr.com.https > 172.70.182.74.20771: Flags [S.], seq 2441553152, ack 2925672247, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+20:29:44.237104 IP 172.70.182.74.20771 > 155.138.140.26.vultr.com.https: Flags [.], ack 1, win 64, length 0
+20:29:44.237105 IP 172.70.182.74.20771 > 155.138.140.26.vultr.com.https: Flags [F.], seq 1, ack 1, win 64, length 0
+20:29:44.237381 IP 155.138.140.26.vultr.com.https > 172.70.182.74.20771: Flags [F.], seq 1, ack 2, win 502, length 0
+20:29:44.237454 IP 172.70.182.74.61613 > 155.138.140.26.vultr.com.https: Flags [.], ack 2, win 64, length 0
+20:29:44.240752 IP 172.70.182.74.25081 > 155.138.140.26.vultr.com.https: Flags [S], seq 3897424628, win 65535, options [mss 1460,nop,nop,sackOK,nop,wscale 10], length 0
+20:29:44.240814 IP 155.138.140.26.vultr.com.https > 172.70.182.74.25081: Flags [S.], seq 1811839012, ack 3897424629, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+20:29:44.340841 IP 172.70.182.74.20771 > 155.138.140.26.vultr.com.https: Flags [.], ack 2, win 64, length 0
+20:29:44.342333 IP 172.70.182.74.25081 > 155.138.140.26.vultr.com.https: Flags [.], ack 1, win 64, length 0
+20:29:44.342333 IP 172.70.182.74.25081 > 155.138.140.26.vultr.com.https: Flags [F.], seq 1, ack 1, win 64, length 0
+20:29:44.342546 IP 155.138.140.26.vultr.com.https > 172.70.182.74.25081: Flags [F.], seq 1, ack 2, win 502, length 0
+20:29:44.348263 IP 172.70.182.74.29241 > 155.138.140.26.vultr.com.https: Flags [S], seq 2801667730, win 65535, options [mss 1460,nop,nop,sackOK,nop,wscale 10], length 0
+20:29:44.348288 IP 155.138.140.26.vultr.com.https > 172.70.182.74.29241: Flags [S.], seq 3226421253, ack 2801667731, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+20:29:44.443917 IP 172.70.182.74.25081 > 155.138.140.26.vultr.com.https: Flags [.], ack 2, win 64, length 0
+20:29:44.461560 IP 172.70.182.74.29241 > 155.138.140.26.vultr.com.https: Flags [.], ack 1, win 64, length 0
+20:29:44.461777 IP 172.70.182.74.29241 > 155.138.140.26.vultr.com.https: Flags [F.], seq 1, ack 1, win 64, length 0
+20:29:44.461987 IP 155.138.140.26.vultr.com.https > 172.70.182.74.29241: Flags [F.], seq 1, ack 2, win 502, length 0
+20:29:44.575263 IP 172.70.182.74.29241 > 155.138.140.26.vultr.com.https: Flags [.], ack 2, win 64, length 0
+20:29:44.839099 IP pc0.zz.ha.cn.63505 > 155.138.140.26.vultr.com.48278: Flags [S], seq 2329215598, win 0, options [mss 1410,sackOK,TS val 2629936496 ecr 0,nop,wscale 6], length 0
+20:29:44.839138 IP 155.138.140.26.vultr.com.48278 > pc0.zz.ha.cn.63505: Flags [R.], seq 0, ack 2329215599, win 0, length 0
+root@comp3134:~# 

@@ -1,0 +1,65 @@
+root@comp3134:~# tcpdump -i enp1s0 dst 155.138.140.26
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on enp1s0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:35:22.801304 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 3824145857, win 15147, options [nop,nop,TS val 488338333 ecr 1836158734], length 0
+20:35:22.806877 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 297, win 15143, options [nop,nop,TS val 488338334 ecr 1836158735], length 0
+20:35:22.813955 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 553, win 15143, options [nop,nop,TS val 488338346 ecr 1836158747], length 0
+20:35:22.819704 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 801, win 15144, options [nop,nop,TS val 488338351 ecr 1836158752], length 0
+20:35:22.827753 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 1049, win 15144, options [nop,nop,TS val 488338358 ecr 1836158759], length 0
+20:35:22.835799 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 1297, win 15144, options [nop,nop,TS val 488338364 ecr 1836158765], length 0
+20:35:22.841091 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 1545, win 15144, options [nop,nop,TS val 488338374 ecr 1836158773], length 0
+20:35:22.850233 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 1793, win 15144, options [nop,nop,TS val 488338380 ecr 1836158781], length 0
+20:35:22.853861 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 2041, win 15144, options [nop,nop,TS val 488338385 ecr 1836158786], length 0
+20:35:22.861180 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 2289, win 15144, options [nop,nop,TS val 488338394 ecr 1836158795], length 0
+20:35:22.867740 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 2537, win 15144, options [nop,nop,TS val 488338398 ecr 1836158799], length 0
+20:35:22.873920 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 2785, win 15144, options [nop,nop,TS val 488338406 ecr 1836158806], length 0
+20:35:22.879959 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 3033, win 15144, options [nop,nop,TS val 488338412 ecr 1836158813], length 0
+20:35:22.885336 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 3281, win 15144, options [nop,nop,TS val 488338418 ecr 1836158819], length 0
+20:35:22.893895 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 3529, win 15144, options [nop,nop,TS val 488338424 ecr 1836158825], length 0
+20:35:22.900121 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 3777, win 15144, options [nop,nop,TS val 488338430 ecr 1836158831], length 0
+20:35:22.907828 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 4025, win 15147, options [nop,nop,TS val 488338438 ecr 1836158839], length 0
+20:35:22.913840 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 4273, win 15147, options [nop,nop,TS val 488338444 ecr 1836158845], length 0
+20:35:22.919986 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 4521, win 15147, options [nop,nop,TS val 488338452 ecr 1836158853], length 0
+20:35:22.926264 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 4769, win 15147, options [nop,nop,TS val 488338458 ecr 1836158859], length 0
+20:35:22.933917 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 5017, win 15147, options [nop,nop,TS val 488338464 ecr 1836158865], length 0
+20:35:22.940436 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 5265, win 15147, options [nop,nop,TS val 488338470 ecr 1836158871], length 0
+20:35:22.947992 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 5513, win 15147, options [nop,nop,TS val 488338478 ecr 1836158879], length 0
+20:35:22.954233 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 5761, win 15147, options [nop,nop,TS val 488338485 ecr 1836158886], length 0
+20:35:22.961993 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 6009, win 15147, options [nop,nop,TS val 488338492 ecr 1836158893], length 0
+20:35:22.968866 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 6257, win 15147, options [nop,nop,TS val 488338498 ecr 1836158899], length 0
+20:35:22.974064 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 6505, win 15147, options [nop,nop,TS val 488338506 ecr 1836158907], length 0
+20:35:22.980746 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 6753, win 15147, options [nop,nop,TS val 488338513 ecr 1836158914], length 0
+20:35:22.988314 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 7001, win 15147, options [nop,nop,TS val 488338518 ecr 1836158919], length 0
+20:35:22.994995 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 7249, win 15147, options [nop,nop,TS val 488338525 ecr 1836158926], length 0
+20:35:23.000460 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 7497, win 15147, options [nop,nop,TS val 488338532 ecr 1836158934], length 0
+20:35:23.007599 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 7745, win 15147, options [nop,nop,TS val 488338539 ecr 1836158940], length 0
+20:35:23.015710 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 7993, win 15147, options [nop,nop,TS val 488338545 ecr 1836158946], length 0
+20:35:23.022411 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 8241, win 15147, options [nop,nop,TS val 488338552 ecr 1836158953], length 0
+20:35:23.027910 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 8489, win 15147, options [nop,nop,TS val 488338560 ecr 1836158961], length 0
+20:35:23.033782 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 8737, win 15147, options [nop,nop,TS val 488338567 ecr 1836158968], length 0
+20:35:23.040079 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 8985, win 15147, options [nop,nop,TS val 488338572 ecr 1836158973], length 0
+20:35:23.046975 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 9233, win 15147, options [nop,nop,TS val 488338578 ecr 1836158979], length 0
+20:35:23.052733 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 9481, win 15147, options [nop,nop,TS val 488338584 ecr 1836158985], length 0
+20:35:23.060114 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 9729, win 15147, options [nop,nop,TS val 488338591 ecr 1836158992], length 0
+20:35:23.067164 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 9977, win 15147, options [nop,nop,TS val 488338597 ecr 1836158998], length 0
+20:35:23.072634 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 10225, win 15147, options [nop,nop,TS val 488338604 ecr 1836159005], length 0
+20:35:23.079702 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 10473, win 15147, options [nop,nop,TS val 488338611 ecr 1836159012], length 0
+20:35:23.086118 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 10721, win 15147, options [nop,nop,TS val 488338617 ecr 1836159018], length 0
+20:35:23.091496 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 10969, win 15147, options [nop,nop,TS val 488338624 ecr 1836159025], length 0
+20:35:23.097241 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 11217, win 15147, options [nop,nop,TS val 488338630 ecr 1836159031], length 0
+20:35:23.103727 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 11465, win 15147, options [nop,nop,TS val 488338635 ecr 1836159037], length 0
+20:35:23.110243 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 11713, win 15147, options [nop,nop,TS val 488338641 ecr 1836159042], length 0
+20:35:23.117297 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 11961, win 15147, options [nop,nop,TS val 488338648 ecr 1836159049], length 0
+20:35:23.122661 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 12209, win 15147, options [nop,nop,TS val 488338654 ecr 1836159055], length 0
+20:35:23.129708 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 12457, win 15147, options [nop,nop,TS val 488338661 ecr 1836159062], length 0
+20:35:23.136538 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 12705, win 15147, options [nop,nop,TS val 488338666 ecr 1836159068], length 0
+20:35:23.143468 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 12953, win 15147, options [nop,nop,TS val 488338674 ecr 1836159075], length 0
+20:35:23.149403 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 13201, win 15147, options [nop,nop,TS val 488338680 ecr 1836159082], length 0
+20:35:23.155740 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 13449, win 15147, options [nop,nop,TS val 488338687 ecr 1836159089], length 0
+20:35:23.162978 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 13697, win 15147, options [nop,nop,TS val 488338693 ecr 1836159095], length 0
+20:35:23.169778 IP 2.146.158.104.in-addr.arpa.53986 > 155.138.140.26.vultr.com.ssh: Flags [.], ack 13945, win 15147, options [nop,nop,TS val 488338700 ecr 1836159101], length 0
+^C
+57 packets captured
+60 packets received by filter
+0 packets dropped by kernel
+root@comp3134:~# 

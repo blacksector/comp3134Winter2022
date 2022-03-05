@@ -1,0 +1,12 @@
+root@comp3134:~# tcpdump -c 5 -i enp1s0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on enp1s0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:26:48.677415 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 3799109649:3799109757, ack 3713429176, win 501, options [nop,nop,TS val 1835644622 ecr 487824213], length 108
+20:26:48.677454 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 108:260, ack 1, win 501, options [nop,nop,TS val 1835644622 ecr 487824213], length 152
+20:26:48.677490 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 260:296, ack 1, win 501, options [nop,nop,TS val 1835644623 ecr 487824213], length 36
+20:26:48.677950 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 296:540, ack 1, win 501, options [nop,nop,TS val 1835644623 ecr 487824213], length 244
+20:26:48.677978 IP 155.138.140.26.vultr.com.ssh > 2.146.158.104.in-addr.arpa.53986: Flags [P.], seq 540:576, ack 1, win 501, options [nop,nop,TS val 1835644623 ecr 487824213], length 36
+5 packets captured
+12 packets received by filter
+0 packets dropped by kernel
+root@comp3134:~# 
